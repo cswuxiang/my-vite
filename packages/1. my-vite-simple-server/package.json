@@ -1,7 +1,9 @@
 {
   "name": "my-vite-simple-server",
   "version": "0.1.6",
-  "scripts": {},
+  "scripts": {
+    "dev":"esno ./vite.ts"
+  },
   "dependencies": {
     "@types/node": "^18.0.0",
     "connect": "^3.7.0",
